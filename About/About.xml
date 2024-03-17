@@ -2,7 +2,7 @@
 <ModMetaData>
 <name>Resource Replicator [1.0->1.4]</name>
 <author>Comrade_Alexey, ✬Rustic Fox✬, Chicken Plucker</author>
-<packageId>Comrade_Alexey.RimMods.ResourceReplicator</packageId>
+<packageId>ComradeAlexey.RimMods.ResourceReplicator</packageId>
 <supportedVersions>
     <li>1.0</li>
     <li>1.1</li>
