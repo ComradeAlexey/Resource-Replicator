@@ -87,9 +87,9 @@
   <RF_RRFirefoamShell.description>Реплицировать 1 пенный снаряд в 2.</RF_RRFirefoamShell.description>
   <RF_RRFirefoamShell.jobString>Репликация Пенного снаряда.</RF_RRFirefoamShell.jobString>
 
-  <RF_RRAntigrainShell.label>Replicate Antigrain Shell</RF_RRAntigrainShell.label>
-  <RF_RRAntigrainShell.description>Replicates 1 antigrain shell into 2.</RF_RRAntigrainShell.description>
-  <RF_RRAntigrainShell.jobString>Replicating Antigrain shell.</RF_RRAntigrainShell.jobString>
+  <RF_RRAntigrainShell.label>Реплицировать Гранульную мину</RF_RRAntigrainShell.label>
+  <RF_RRAntigrainShell.description>Реплицировать 1 гранульную мину в 2.</RF_RRAntigrainShell.description>
+  <RF_RRAntigrainShell.jobString>Репликация Гранульной мины.</RF_RRAntigrainShell.jobString>
 
   <RF_RRAdvancedComponent.label>Реплицировать Продвинутый компонент</RF_RRAdvancedComponent.label>
   <RF_RRAdvancedComponent.description>Реплицировать 1 продвинутый компонент в 2.</RF_RRAdvancedComponent.description>
