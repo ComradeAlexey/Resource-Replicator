@@ -948,7 +948,7 @@
 		<defName>RF_ORChocolate</defName>
 		<label>Replicate Chocolate</label>
 		<description>Replicates 50 Chocolate into 100.</description>
-		<jobString>Replicating InsectJelly.</jobString>
+		<jobString>Replicating Chocolate.</jobString>
 		<workAmount>100</workAmount>
 		<ingredients>
 			<li>
@@ -1048,7 +1048,7 @@
 		<defName>RF_MRUltraTechMedicine</defName>
 		<label>Replicate Glitterworld medicine</label>
 		<description>Replicates 1 Glitterworld medicine into 5.</description>
-		<jobString>Replicating UltratechMedicine.</jobString>
+		<jobString>Replicating Glitterworld medicine.</jobString>
 		<ingredients>
 			<li>
 				<filter>
